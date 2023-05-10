@@ -3,8 +3,7 @@
 in this repo i've learned command "read", i've found it quite useful\
 i will need to rewrite my old scripts that uses $[1-9] as input, haha
 
-maybe if you use █ to make square you will need x elements in height and 3x-3 in width
-
+maybe it would be useful for someone
 ```
 square        h:w
 
